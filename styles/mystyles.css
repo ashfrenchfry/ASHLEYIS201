@@ -1,0 +1,27 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+h1 {
+    font-size: 70px
+}
+
+.bold {
+    font-weight: bold
+}
+
+.size {
+    font-size: 25px
+}
+
+.schools {
+    font-size: 40px
+}
+
+.newfont {
+    font-family:initial
+}
+
+.nav {
+    font-size: 25px
+}
